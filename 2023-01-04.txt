@@ -1,0 +1,8 @@
+npx create-react-app router2
+cd router2
+npm i react-router-dom
+npm i sass
+
+public안에 img 넣기
+
+src안에 page(component : media, main), data(data.json)넣기

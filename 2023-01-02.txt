@@ -1,0 +1,11 @@
+SPA(single page application)를 CSR(client side rendering)방식으로 렌더링한다고 말한다.
+MPA(multiple page application)를 SSR(server side rendering)방식으로 렌더링한다고 말한다.
+
+react 폴더에서 터미널
+npx create-react-app router(프로젝트 생성)
+cd router
+npm i react-router-dom(라우터 설치)
+npm i sass
+
+id이용
+navigate

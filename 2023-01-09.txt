@@ -1,0 +1,18 @@
+effect
+> router
+> sass
+
+page
+> Write.js
+> List.js
+> Item.js
+
+rafce
+자동으로 만들어줌
+
+Link태그는 a태그
+useNavigate은 location
+프로토콜?(protocal)/도메인/포트번호(port)/폴더 
+
+리덕스 공부할 맛이 나면 하세요
+
