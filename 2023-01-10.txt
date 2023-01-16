@@ -1,0 +1,23 @@
+todolist 프로젝트 생성
+sass
+
+캡처링 부모>자식 
+버블링 자식>부모
+
+
+.hide-menu-icon:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+
+    filter: invert(100);
+
+
+.hide-menu a {
+    color: white;
+
+
+
+<<<<<<<트랜지션 안먹음 담배피고옴 ㅋㅁㅋ
+
+
+
+

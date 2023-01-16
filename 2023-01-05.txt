@@ -1,0 +1,7 @@
+useParams()훅을 이용한 화면 구현
+
+상단의 url값을 받아와서 데이터뿌리기??
+http://localhost/movies->useParams를 이용하여 해당값을 받아와서 데이터 출력
+component에 데이터 받아와서 넣어도됨.. 하지만 useParams 사용해보기
+
+

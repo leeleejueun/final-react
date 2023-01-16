@@ -1,0 +1,28 @@
+node.js
+
+javascript를 서버에서도 사용할수 있도록 만든 프로그램이다.
+
+js-map(foreach 문과 유사하나 배열값을 반환)
+js-filter(비교식을 이용해서 원하는 값 찾기)
+js-for in(key값 반환)
+js-for of(value값 반환)
+js-Destructuring   = ...변수 : 배열을 다 넣어줌??
+js-import(가져오기) / export(내보내기)
+
+cd 폴더명
+cd ..
+'./css/index.css'
+
+함수형 컴포넌트(컴포넌트 첫 문자는 대문자=App)
+
+ajax react jq 데이터처리할줄 알아야됨...아자
+
+git
+ㄴ http://ju.github.io/test/
+
+/test/img/01.jpg
+
+장점 
+- 초기로딩속도 빠르다
+- 싱글 페이지로 페이지 이동 없음(깜박임 없음)
+- 데이터를 실시간으로 갱신시킬수 있음
