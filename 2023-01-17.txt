@@ -1,0 +1,10 @@
+배열 [] 값을 넣기
+객체 {} 이름:100 요런식...
+
+createcontext
+
+usecontext
+mycontext
+
+filter, map 배열로 던져줌 return필수
+

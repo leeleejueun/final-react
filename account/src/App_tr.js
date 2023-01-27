@@ -1,29 +1,42 @@
+import './App.css';
 import React,{useState, useReducer} from 'react'
 
 const initData={
     totalCount :0,
-    list: [
-        {id:0,price:1000,msg:'hello',day:'1.17'},
-        {id:1,price:1000,msg:'hello',day:'1.17'}
-    ]
+    list: []
 }
 
 function reducer(state,action){
-    switch('plus'){
-        case 'plus' : 가나다; break; //break == return
-        case 'minus' : 라마바; break;
+    switch(action.type){
+        case 'plus' : 
+            return{
+                totalCount: state.totalCount + action.price,
+                list : [
+                    ...state.list,
+                    {id:0, price:action.price, msg:action.msg, day:action.day}
+                ]
+            }; //break == return
+        case 'minus' : return;
     }
 }
 
 const App_tr = () => {
-    //const [data,SetData] = useState(data);
-
     const [data,dispatch] = useReducer(reducer,initData); // (함수, 데이터)
     
-    // dispatch({type:'plus', price:0, msg:0,day:0})
-  
+    function test(){
+        let date = new Date()
+        date = (date.getMonth()+1)+'.'+date.getDay();
+        const content = {type:'plus', price:5000, msg:'gd', day:date}
+        dispatch(content)
+    }
+
+    console.log(data)
+
     return (
-    <button onClick={()=>dispatch()}>digh</button>
+        <>
+            {data.totalCount}
+           <button onClick={test}></button>
+        </>
   )
 }
 
