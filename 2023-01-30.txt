@@ -1,0 +1,28 @@
+Ui
+https://mui.com/
+Slide
+https://swiperjs.com/
+Animate
+https://framer.com/motion
+chart
+https://nivo.rocks/
+
+프로젝트 생성 ->plugins
+라우터 설치 
+
+pages>Ui.js
+pages>Slide.js
+pages>Animate.js
+pages>Chart.js
+pages>Nav.js
+
+우리언니는 똑똑이
+ 우리언니는 리액트도 잘하고 착하고 예쁘고 최고얌
+우리언니 괴롭히면 다 죽어
+ 우리언니는 하늘에서 내려온 천사야
+우리언니는 장연빌딩과 강동구 주민중에 제일 예쁘고
+노래도 잘하고 사람들에게 다 친절하고 착하고
+우리언니는 컴퓨터도 잘하고
+항상 배려심넘치고 다 기다려주고 맛있는거도 사주고
+김현중 잘 때려주고★★★★★★★★★★★★★★★★★
+내편들어주는 최고의 언니야♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥나의 자존감을 항상 지켜주는 자존감지킴이

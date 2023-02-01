@@ -1,0 +1,5 @@
+포토샵
+
+ctrl+shift+i=뒤집
+
+ctrl+d
