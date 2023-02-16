@@ -1,0 +1,62 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 2%;
+    h1{
+        font-family: 'Inria Serif', serif;
+        font-family: 'Playfair Display', serif;
+    }
+    .side{
+        display: flex;
+        align-items: center;
+        a{
+            width: 30px;
+            margin-right: 20px;
+            img{
+                width: 100%;
+            }
+        }
+        .face{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-right: 20px;
+            overflow: hidden;
+            img{
+                width: 100%;
+            }
+        }
+    }
+}
+main{
+    div{
+        input{}
+        .dogs{
+            display: flex !important;
+            height: 70vh;
+            .dogImg{
+                margin: 3%;
+                width: 40%;
+                overflow: hidden;
+                img{
+                    width: 100%;
+                }
+            }
+            .dogDetail{
+                list-style: none;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                height: 45vh;
+                li{
+                    p{}
+                }
+            }
+            .important{
+
+            }
+        }
+    }
+}
